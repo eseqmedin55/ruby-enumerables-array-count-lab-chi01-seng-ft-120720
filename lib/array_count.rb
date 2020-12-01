@@ -13,7 +13,7 @@ empty_arrays = array.count do |element|
 end
 counter += 1
 end 
-counter
+empty_arrays
 end
 
  
