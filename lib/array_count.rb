@@ -8,8 +8,8 @@ end
    empty_arrays = 0 
     counter = 0
 while counter < array.size
-empty_arrays = array.count do |element|
-  element.class == ""
+if array[counter] == "" do 
+  empty_arrays += 1 
 end
 counter += 1
 end 
