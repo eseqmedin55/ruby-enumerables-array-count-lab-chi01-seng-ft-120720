@@ -12,6 +12,7 @@ array.count do |element|
 end
 counter += 1
 end 
+counter
 end
 
  
