@@ -8,7 +8,7 @@ end
    empty_arrays = 0 
     counter = 0
 while counter < array.size
-if array[counter] == "" do 
+if array[counter] == "" 
   empty_arrays += 1 
 end
 counter += 1
